@@ -1,7 +1,7 @@
 # React Initial State
 
 ## Overview 
-
+learn
 In this lesson, we'll explain the concept of component state. 
 
 ## Objectives
